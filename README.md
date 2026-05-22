@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm an Applied Economics student at De La Salle University with a passion for data-driven research and visualization. I enjoy working on projects that challenge me to apply econometric methods and statistical tools to real-world problems, whether it's analyzing labor market mismatches, mapping regional demographic trends, or building interactive data visualizations. I'm always looking for opportunities to explore data, uncover patterns, and turn findings into clear, actionable insights.<br>
+Hi, I'm an Applied Economics student at De La Salle University with a strong passion for applying data-driven research to real-world challenges. I enjoy working on projects that utilize statistical and econometric tools to generate meaningful insights, whether analyzing labor market mismatches, examining regional trends, or developing forecasts. I am always seeking opportunities to learn and expand my decision-making skills to make a meaningful impact on society.<br>
 
 
 ## 🌐 Socials:
